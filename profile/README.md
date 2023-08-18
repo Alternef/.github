@@ -20,7 +20,7 @@ Build a digital protocol that enables the creation of distributed, peer-to-peer 
 
 The Alternef will be one of the first spaces in this ecosystem, whose main theme will be "societal alternatives" and will be structured around the [7 petals of permaculture](https://permacultureprinciples.com/fr/).
 
-## Themes
+### Themes
 - Nature care
 - Habitats
 - Tools and technologies
@@ -29,7 +29,7 @@ The Alternef will be one of the first spaces in this ecosystem, whose main theme
 - Finance and economics
 - Land and governance
 
-## Functionalities
+### Functionalities
 - Distributed common media library and knowledgebase
 - Peer-to-peer mentoring
     - Course and mentor directories
