@@ -26,13 +26,13 @@ Our integrated technological foundation consists of three interconnected systems
 
 ## Implementation Journey
 
-**Phase 1: Digital Networks** *(Present - 2 years)*  
+**Phase 1: Digital Networks** *(Present - 3 years)*  
 Building online communities and developing core technological infrastructure
 
-**Phase 2: Physical Nodes** *(2-5 years)*  
+**Phase 2: Physical Nodes** *(3-10 years)*  
 Establishing land-based communities and floating prototypes  
 
-**Phase 3: Flying City** *(5-15 years)*  
+**Phase 3: Flying City** *(10-15 years)*  
 Realizing modular aerial platforms using plasma technology
 
 ## Community & Collaboration
